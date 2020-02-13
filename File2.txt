@@ -7,3 +7,11 @@ change - inprogress for feature  payment gateway
 2)change by team mate on remote repo for testing pull/fetch
 
 change by team mate to test rebase on remote repo
+
+change --> test push on remote repo from local
+
+change --> team mate on remote repo for testing pull/fetch
+
+
+change on local to test rebase
+
